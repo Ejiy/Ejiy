@@ -35,3 +35,13 @@
 <a href="https://github.com/Ejiy">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
+
+<BR>
+<BR>
+
+
+<a href="https://discord.gg/HcXBmJxurD">
+ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+
